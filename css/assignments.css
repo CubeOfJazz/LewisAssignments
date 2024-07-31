@@ -9,3 +9,12 @@ b {
     background-size: 30%;
     margin-left: 70px;
 }
+
+#assignment-var {
+    position: fixed;
+    left: 164px;
+}
+
+#perf {
+    position: fixed;
+}
