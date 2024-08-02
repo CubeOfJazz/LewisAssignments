@@ -11,6 +11,13 @@ b {
 }
 
 #assignment-var {
+    color: aliceblue;
+    position: fixed;
+    left: 164px;
+}
+
+#performance-var {
+    color: aliceblue;
     position: fixed;
     left: 164px;
 }
